@@ -1,4 +1,4 @@
-# Ov3rride-Custom-BloodHound-Queries
+# 0v3rride-Custom-BloodHound-Queries
 Custom Bloodhound queries built off of Hausec's custom queries JSON file
 
 * Find users who own the security descriptor of an AD computer object
